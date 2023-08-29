@@ -1,0 +1,27 @@
+body{
+    background-color: tan
+}
+
+
+.flex-container {
+    display: flex;
+    justify-content: space-between; /* Equal spacing between items */
+    align-items: center; /* Center items vertically */
+    padding: 20px;
+    border: 1px solid black;
+    background-color: teal;
+  }
+  
+  /* Style the flex items */
+  .box {
+    padding: 10px;
+    border: 1px solid black;
+    background-color: white;
+  }
+ 
+  
+  
+  
+  
+  
+  
